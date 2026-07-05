@@ -13,6 +13,11 @@ This repo contains beginner-to-intermediate practice files while learning core w
 - Layout practice (Flexbox / Grid)
 - Small UI components and mini-projects
 
+## Mini Projects
+- **Hover Cards** — Interactive card UI with CSS hover effects and transitions
+- **Shapes & Design** — Practice with CSS shapes, positioning, and layout
+- **Salesforce Website Clone** — Landing page recreation practice (Flexbox/Grid layout)
+
 ## Tech Stack
 
 - HTML5
