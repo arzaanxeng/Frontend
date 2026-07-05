@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: beige;
+}
+
+#main{
+    width: 100%;
+    height: 100%;
+}
+
+.cards{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 400px;
+    width: 310px;
+    border: 1px solid crimson;
+    border-radius: 20px;
+    overflow: hidden;
+ 
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+/* Note the dot before cards, and the space before :hover is removed */
+.cards:hover {
+    z-index: 999 !important; /* Forces it way past z-index 1 through 5 */
+    transform: translate(-50%, -50%) scale(1.15); /* Optional: scales it up 5% to look awesome on hover */
+}
+
+#c1{
+    z-index: 5;
+    transform: translate(-50%, -50%) rotate(0deg); /* Stays perfectly centered */
+}
+
+#c2{
+    z-index: 4;
+    transform: translate(-50%, -50%) rotate(-8deg); /* Translates first, THEN rotates */
+}
+
+#c3{
+    z-index: 3;
+    transform: translate(-50%, -50%) rotate(-16deg);
+}
+
+#c4{
+    z-index: 2;
+    transform: translate(-50%, -50%) rotate(-24deg);
+}
+
+#c5{
+    z-index: 1;
+    transform: translate(-50%, -50%) rotate(-32deg);
+}
