@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box; /* 👈 This forces borders inside the 250px height */
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+main{
+    display: flex;
+}
+
+div{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+#B1{
+    background-color: crimson;
+    border: 3px solid transparent;
+    
+}
+
+#B2{
+    background-color: rgb(233, 233, 48);
+    border: 3px solid black;
+}
+
+#B3{
+    background-color: rgb(19, 186, 156);
+    border: 3px solid black;
+}
