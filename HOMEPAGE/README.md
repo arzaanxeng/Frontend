@@ -9,7 +9,8 @@ A pixel-perfect frontend clone of the Salesforce landing page, featuring the mod
 <p align="center">
   <img src="View/HOMEPAGE-I.png"  width="700"/>
 </p>
----
+
+>
 
 ##  Features
 
