@@ -17,6 +17,7 @@ This repo contains beginner-to-intermediate practice files while learning core w
 - **Hover Cards** — Interactive card UI with CSS hover effects and transitions
 - **Shapes & Design** — Practice with CSS shapes, positioning, and layout
 - **Salesforce Website Clone** — Landing page recreation practice (Flexbox/Grid layout)
+- **Amazon Website Clone** - Practising frontend skills with designing actual homepage of amazon website
 
 ## Tech Stack
 
