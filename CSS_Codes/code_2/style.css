@@ -1,0 +1,16 @@
+*{
+    padding:0%;
+    margin:0%;
+}
+
+#box{
+    background-color: lightcoral;
+}
+
+.headings{
+    color: red;
+}
+
+#btn1{
+    background-color: lightgreen;
+}
