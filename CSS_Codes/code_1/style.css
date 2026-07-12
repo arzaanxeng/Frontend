@@ -1,0 +1,43 @@
+
+/* This is Universal Selector which is applied to the whole document.*/
+*{
+    padding: 0%;
+    margin:0%;
+    background-color: antiquewhite;
+} 
+
+/* This is type selector for html and body */
+html,body{
+    width:100%;
+    height: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* This is heading selector for h1 */
+h1{
+    text-align: center;
+    color: pink;
+    font-size: 3rem;
+    margin-top: 2rem;
+}
+
+/* This is paragraph selector for p1 */
+p1{
+    color: black;
+}
+
+/* This is ID selector for h2 and h3 */
+#h2{
+    color: blue;
+    text-align: center;
+}
+
+#h3{
+    color: green;
+    text-align: center;
+}
+
+/* This is class selector for .myclass */
+.myclass{
+    background-color: lightblue; 
+}
