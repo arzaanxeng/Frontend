@@ -1,8 +1,7 @@
 # HTML, CSS & JavaScript 
-
-Practice repository for learning and building web development fundamentals.
-
 ---
+
+**Practice repository for learning and building web development fundamentals.**
 
 ## Purpose
 
