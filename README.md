@@ -1,4 +1,4 @@
-# HTML, CSS & JavaScript Practice
+# HTML, CSS & JavaScript 
 
 Practice repository for learning and building web development fundamentals.
 
