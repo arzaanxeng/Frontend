@@ -21,7 +21,6 @@ This repo contains practice files while learning core web development concepts �
 - **Hover Cards** — Interactive card UI with CSS hover effects and transitions.
 - **Shapes & Design** — Practice with CSS shapes, positioning, and layout.
 - **Salesforce Website Clone** — Landing page recreation practice (Flexbox/Grid layout).
-- **Amazon Website Clone** — Practicing frontend skills with designing the homepage of the Amazon website.
 - **Interactive JS Components** — Practical scripts covering string manipulation, counter mechanics, data validation, and logic checking.
 
 ## Tech Stack
