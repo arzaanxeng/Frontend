@@ -21,12 +21,19 @@ A clean, interactive, and responsive web-based Rock Paper Scissors game built us
 
 ## File Structure
 
+---
+
 ```text
 ├── index.html          # Main HTML structure
 ├── style.css           # Styling and layout
-├── app.js             # Game logic and score tracking
+├── app.js              # Game logic and score tracking
 └── images/             # Folder containing game assets and screenshots
     ├── Preview.png     # Main repository screenshot
     ├── paper.png       # Paper gesture icon
     ├── rock.png        # Rock gesture icon
     └── scissors.png    # Scissors gesture icon
+
+```
+
+## Author
+**Arzaan**
