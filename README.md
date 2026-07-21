@@ -27,7 +27,10 @@ This repo contains practice files while learning core web development concepts â
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
+
+## Author
+**Arzaan**
 
 ## Author
 
